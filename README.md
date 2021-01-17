@@ -5,7 +5,8 @@ Description
 The game will let you chose a Pokémon first. Then will have a number of random encounters with other Pokémon’s which you can battle and capture. After a certain amount random encounters, you will get to a city and the game will finish. There will be a backpack for the Pokémon’s, maximum of six slots. 
 
 Key features
-•	Random encounter of Pokémon’s
+Random encounter of Pokémon’s.
+
 •	Only 3 Pokémon’s can be encountered in the wild
 •	Pokémon that you will encounter will be randomised
 •	The Pokémon stats (HP, attack, speed, defence, level) will be randomised for each encounter

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pipo_x/.dotnet/store/|arch|/|tfm|",
+      "/Users/pipo_x/.nuget/packages"
+    ]
+  }
+}

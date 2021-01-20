@@ -1,0 +1,12 @@
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/bin/Debug/netcoreapp3.1/PokemonConsole.deps.json
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/bin/Debug/netcoreapp3.1/PokemonConsole.runtimeconfig.json
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/bin/Debug/netcoreapp3.1/PokemonConsole.runtimeconfig.dev.json
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/bin/Debug/netcoreapp3.1/PokemonConsole.dll
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/bin/Debug/netcoreapp3.1/PokemonConsole.pdb
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.csprojAssemblyReference.cache
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.AssemblyInfoInputs.cache
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.AssemblyInfo.cs
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.csproj.CoreCompileInputs.cache
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.dll
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.pdb
+/Users/pipo_x/Desktop/BIT.nosync/OneDrive - JAMK/Basics of Game Programming/PokemonConsole/FinalProject/PokemonConsole/obj/Debug/netcoreapp3.1/PokemonConsole.genruntimeconfig.cache
